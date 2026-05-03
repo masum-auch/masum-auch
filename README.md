@@ -27,7 +27,7 @@ Skills:  Python/Data Handling/ML/DL/NLP/LLM/OpenCV/ etc...
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning AI/ML Engineer. 
 - 👯 I’m looking to collaborate on AI Project. 
-- 🤔 I’m looking for help with Real-life Project. 
+- 🤔 I’m looking for help with a real-life project. 
 - 💬 Ask me about masum-auch 
 
 
